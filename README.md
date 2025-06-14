@@ -1,2 +1,2 @@
 # Reddit-Twitter-Bots
-Useful bots for automating Reddit and Twitter 
+Useful bots for automating Reddit and Twitter Using API
