@@ -1,2 +1,2 @@
 # Reddit-Twitter-Bots
-Useful bots for automating Reddit and Twitter Using API
+Useful bots for automating Reddit and Twitter Using Wrapper API
